@@ -4,7 +4,11 @@
 Portfolio:
 https://taylorji.ca/
 ---
-Graduate of BCIT, specializing in the Web and Mobile option from the Computer Systems Technology program
+I’m a Computer Systems Technology graduate currently pursuing a Bachelor of Applied Computer Science (Database Specialization) at BCIT. I’m passionate about transforming raw data into meaningful insights that empower organizations to make smarter, data-driven decisions.
+
+My focus is on data engineering and analytics, where I enjoy building efficient data pipelines, automating workflows, and ensuring data quality for reliable analysis. I’ve worked with tools such as Python, SQL, Airflow, Docker, and Power BI to design scalable, insight-driven solutions.
+
+I’m eager to apply my technical skills and analytical mindset to real-world projects, collaborate with experienced engineers, and continue growing as a data professional.
 ---
 How to reach out
 
