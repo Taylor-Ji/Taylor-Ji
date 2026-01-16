@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Taylor%20Ji&fontSize=90&animation=twinkling)
 
 ---
-Portfolio:
-https://taylorji.ca/
----
 I’m a Computer Systems Technology graduate currently pursuing a Bachelor of Applied Computer Science (Database Specialization) at BCIT. I’m passionate about transforming raw data into meaningful insights that empower organizations to make smarter, data-driven decisions.
 
 My focus is on data engineering and analytics, where I enjoy building efficient data pipelines, automating workflows, and ensuring data quality for reliable analysis. I’ve worked with tools such as Python, SQL, Airflow, Docker, and Power BI to design scalable, insight-driven solutions.
